@@ -7,7 +7,7 @@ using namespace std;
 // This code build is for run a bot to answer your questions and do some task for user.
 // CODE STARTS FROM HERE.
 int main() {
-    string name; // user name string type
+    string name; // user name string .
     string email; // user email string type
     string phonenumber; // user phonenumber string type
     string response; //user input and response string type
